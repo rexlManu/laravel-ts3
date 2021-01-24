@@ -1,11 +1,11 @@
 {
-    "name": "emmanuel lampe/laravel-ts3",
+    "name": "rexlmanu/laravel-ts3",
     "description": "laravel-ts3",
     "keywords": [
         "emmanuel lampe",
         "laravel-ts3"
     ],
-    "homepage": "https://github.com/emmanuel lampe/laravel-ts3",
+    "homepage": "https://github.com/rexlManu/laravel-ts3",
     "license": "MIT",
     "authors": [
         {
@@ -24,13 +24,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Emmanuel Lampe\\TeamSpeak3\\": "src",
-            "Emmanuel Lampe\\TeamSpeak3\\Database\\Factories\\": "database/factories"
+            "RexlManu\\TeamSpeak3\\": "src",
+            "RexlManu\\TeamSpeak3\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Emmanuel Lampe\\TeamSpeak3\\Tests\\": "tests"
+            "RexlManu\\TeamSpeak3\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -44,10 +44,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Emmanuel Lampe\\TeamSpeak3\\TeamSpeak3ServiceProvider"
+                "RexlManu\\TeamSpeak3\\TeamSpeak3ServiceProvider"
             ],
             "aliases": {
-                "TeamSpeak3": "Emmanuel Lampe\\TeamSpeak3\\TeamSpeak3Facade"
+                "TeamSpeak3": "RexlManu\\TeamSpeak3\\TeamSpeak3Facade"
             }
         }
     },
