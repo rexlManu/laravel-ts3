@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Database\Factories;
+namespace Emmanuel Lampe\TeamSpeak3\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

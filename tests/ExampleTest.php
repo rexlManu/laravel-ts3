@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Emmanuel Lampe\TeamSpeak3\Tests;
 
 class ExampleTest extends TestCase
 {

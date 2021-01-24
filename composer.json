@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "emmanuel lampe/laravel-ts3",
+    "description": "laravel-ts3",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "emmanuel lampe",
+        "laravel-ts3"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/emmanuel lampe/laravel-ts3",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Emmanuel Lampe",
+            "email": "mail@emmanuel-lampe.de",
             "role": "Developer"
         }
     ],
@@ -24,13 +24,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src",
-            "Spatie\\Skeleton\\Database\\Factories\\": "database/factories"
+            "Emmanuel Lampe\\TeamSpeak3\\": "src",
+            "Emmanuel Lampe\\TeamSpeak3\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Emmanuel Lampe\\TeamSpeak3\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -44,10 +44,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Spatie\\Skeleton\\SkeletonServiceProvider"
+                "Emmanuel Lampe\\TeamSpeak3\\TeamSpeak3ServiceProvider"
             ],
             "aliases": {
-                "Skeleton": "Spatie\\Skeleton\\SkeletonFacade"
+                "TeamSpeak3": "Emmanuel Lampe\\TeamSpeak3\\TeamSpeak3Facade"
             }
         }
     },
