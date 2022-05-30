@@ -1,5 +1,5 @@
 {
-    "name": "rexlmanu/laravel-ts3",
+    "name": "alessiobrendt/laravel-ts3",
     "description": "laravel-ts3",
     "keywords": [
         "emmanuel lampe",
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/contracts": "^8.0"
+        "illuminate/contracts": "^v9.8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0",
