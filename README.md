@@ -1,9 +1,6 @@
 # laravel-ts3
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/emmanuel lampe/laravel-ts3.svg?style=flat-square)](https://packagist.org/packages/emmanuel lampe/laravel-ts3)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/emmanuel lampe/laravel-ts3/run-tests?label=tests)](https://github.com/emmanuel lampe/laravel-ts3/actions?query=workflow%3ATests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/emmanuel lampe/laravel-ts3.svg?style=flat-square)](https://packagist.org/packages/emmanuel lampe/laravel-ts3)
-
+Only the compatibility for Larvale 9 was provided here, the original can be found here: https://github.com/rexlManu/laravel-ts3 
 
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
@@ -20,7 +17,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ```bash
-composer require emmanuel lampe/laravel-ts3
+composer require alessiobrendt/laravel-ts3
 ```
 
 You can publish and run the migrations with:
